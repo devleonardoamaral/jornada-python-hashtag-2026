@@ -28,6 +28,11 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 - Conceitos de RPA  
 - Introdução a Web Scraping  
 
+#### Melhorias implementadas por mim
+- Organização da lógica em funções e módulos
+- Comandos CLI de ajuda e para definir o navegador
+- Compatibilidade com diferentes resoluções de tela
+
 #### Como executar
 ```py
 python -m venv .venv
