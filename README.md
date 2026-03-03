@@ -30,8 +30,8 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 
 #### Como executar
 ```py
-python3 -m venv .venv
-source .venv/bin/activate # Ou use .venv/bin/activate.fish para terminal zsh
+python -m venv .venv
+source .venv/bin/activate
 pip install -r projeto_01/requirements.txt
 python -m projeto_01
 ```
