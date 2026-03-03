@@ -18,6 +18,7 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 
 - Python 3.x
 - PyAutoGUI
+- Pandas
 
 ## 📂 Estrutura
 
@@ -26,6 +27,14 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 - Interação com interface gráfica  
 - Conceitos de RPA  
 - Introdução a Web Scraping  
+
+#### Como executar
+```py
+python3 -m venv .venv
+source .venv/bin/activate # or .venv/bin/activate.fish for zsh
+pip install -r --no-input projeto_01/requirements.txt
+python -m projeto_01
+```
 
 ### projeto-02 – Análise de Dados
 - Manipulação de dados com DataFrames  
@@ -44,11 +53,6 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 - Uso de frameworks web  
 - Implementação de chatbot  
 - Integração com APIs / agentes
-
-## ▶️ Como executar
-```py
-python -m projeto_01
-```
 
 ## 📜 Certificado
 Disponível em breve.
