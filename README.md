@@ -22,7 +22,7 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 
 ## 📂 Estrutura
 
-### projeto-01 – Automação com Python
+### projeto_01 – Automação com Python
 - Automação de tarefas com PyAutoGUI  
 - Interação com interface gráfica  
 - Conceitos de RPA  
@@ -36,19 +36,19 @@ pip install -r projeto_01/requirements.txt
 python -m projeto_01
 ```
 
-### projeto-02 – Análise de Dados
+### projeto_02 – Análise de Dados
 - Manipulação de dados com DataFrames  
 - Limpeza e tratamento de dados  
 - Geração de gráficos  
 - Extração de métricas  
 
-### projeto-03 – Machine Learning
+### projeto_03 – Machine Learning
 - Preparação de dados  
 - Treinamento de modelo preditivo  
 - Avaliação de desempenho  
 - Análise de resultados  
 
-### projeto-04 – Desenvolvimento Web / Aplicação
+### projeto_04 – Desenvolvimento Web / Aplicação
 - Estruturação de aplicação Python  
 - Uso de frameworks web  
 - Implementação de chatbot  
