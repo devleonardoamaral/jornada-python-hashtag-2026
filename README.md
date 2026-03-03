@@ -1,2 +1,55 @@
 # jornada-python-hashtag-2026
-Exercícios práticos de Python desenvolvidos durante a Jornada Python da Hashtag Programação.
+
+Repositório com os exercícios desenvolvidos durante a Jornada Python promovida pelo canal Hashtag Programação, realizada em 02 de março de 2026.
+
+## 📚 Sobre o Evento
+
+- Evento: Jornada Python  
+- Organização: Hashtag Programação  
+- Data: 02/03/2026 até 05/03/2026
+- Formato: Online  
+- Certificação: Participação
+
+## 🎯 Objetivo
+
+Praticar aplicações reais em Python envolvendo automação, análise de dados, inteligência artificial e desenvolvimento web.
+
+## 🛠 Tecnologias Utilizadas
+
+- Python 3.x
+- PyAutoGUI
+
+## 📂 Estrutura
+
+### projeto-01 – Automação com Python
+- Automação de tarefas com PyAutoGUI  
+- Interação com interface gráfica  
+- Conceitos de RPA  
+- Introdução a Web Scraping  
+
+### projeto-02 – Análise de Dados
+- Manipulação de dados com DataFrames  
+- Limpeza e tratamento de dados  
+- Geração de gráficos  
+- Extração de métricas  
+
+### projeto-03 – Machine Learning
+- Preparação de dados  
+- Treinamento de modelo preditivo  
+- Avaliação de desempenho  
+- Análise de resultados  
+
+### projeto-04 – Desenvolvimento Web / Aplicação
+- Estruturação de aplicação Python  
+- Uso de frameworks web  
+- Implementação de chatbot  
+- Integração com APIs / agentes
+
+## ▶️ Como executar
+```py
+cd projeto-01
+python main.py
+```
+
+## 📜 Certificado
+Disponível em breve.
