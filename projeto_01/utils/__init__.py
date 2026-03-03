@@ -1,7 +1,7 @@
 """
-Módulo com funções auxiliares.
+Módulo com funções utilitárias.
 """
 
-from . import cli, debug
+from . import debug
 
-__all__ = ["cli", "debug"]
+__all__ = ["debug"]
