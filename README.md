@@ -47,8 +47,7 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 
 ## ▶️ Como executar
 ```py
-cd projeto-01
-python main.py
+python -m projeto_01
 ```
 
 ## 📜 Certificado
