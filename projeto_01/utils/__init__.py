@@ -1,11 +1,7 @@
 """
-Módulo com funções auxiliares de depuração.
+Módulo com funções auxiliares.
 """
 
-import pyautogui
+from . import cli, debug
 
-
-def show_mouse_position():
-    """Função de depuração para obter a localização autal do mouse na tela."""
-    pos = pyautogui.position()
-    print(f"x = {pos.x}, y = {pos.y}")
+__all__ = ["cli", "debug"]
