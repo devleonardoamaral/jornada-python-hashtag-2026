@@ -32,7 +32,7 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 ```py
 python3 -m venv .venv
 source .venv/bin/activate # Ou use .venv/bin/activate.fish para terminal zsh
-pip install -r --no-input projeto_01/requirements.txt
+pip install -r projeto_01/requirements.txt
 python -m projeto_01
 ```
 
