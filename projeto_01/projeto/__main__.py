@@ -10,7 +10,7 @@ from . import arquivo, automacao, cli
 LINK = "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
 USERNAME = "pythonimpressionador@gmail.com"
 PASSWORD = "umasenhaextremamentesegura"
-TABELA_FILE = f"{os.getcwd()}/projeto_01/produtos.csv"
+TABELA_FILE = f"{os.getcwd()}/produtos.csv"
 navegador = "firefox"
 
 # Processa argumentos CLI
