@@ -37,8 +37,9 @@ Praticar aplicações reais em Python envolvendo automação, análise de dados,
 ```py
 python -m venv .venv
 source .venv/bin/activate
-pip install -r projeto_01/requirements.txt
-python -m projeto_01
+cd projeto_01
+pip install -r requirements.txt
+python -m projeto --help
 ```
 
 ### projeto_02 – Análise de Dados
