@@ -14,19 +14,19 @@ Repositório com os exercícios desenvolvidos durante a Jornada Python promovida
 
 Praticar aplicações reais em Python envolvendo automação, análise de dados, inteligência artificial e desenvolvimento web.
 
-## 🛠 Tecnologias Utilizadas
-
-- Python 3.x
-- PyAutoGUI
-- Pandas
-
-## 📂 Estrutura
+## 📂 Projetos
 
 ### projeto_01 – Automação com Python
 - Automação de tarefas com PyAutoGUI  
 - Interação com interface gráfica  
 - Conceitos de RPA  
 - Introdução a Web Scraping  
+
+#### Tecnologias utilizadas
+
+- Python 3.x
+- PyAutoGUI
+- Pandas
 
 #### Melhorias implementadas por mim
 - Organização da lógica em funções e módulos
@@ -46,7 +46,12 @@ python -m projeto --help
 - Manipulação de dados com DataFrames  
 - Limpeza e tratamento de dados  
 - Geração de gráficos  
-- Extração de métricas  
+- Extração de métricas
+
+#### Tecnologias utilizadas
+
+- Python 3.x
+- Pandas
 
 ### projeto_03 – Machine Learning
 - Preparação de dados  
